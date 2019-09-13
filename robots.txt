@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaeghiesio.amberpahare.com/sitemap.xml
